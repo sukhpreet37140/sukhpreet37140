@@ -9,6 +9,3 @@ Some of these projects are -
     - Data Analysis from multiple perspectives e.g. country, Number of
     Deaths, Vaccinations
     - Tableu Dashboard for visualisation
-- US Crime Analysis
-    - Data Cleaning and modification using SQL
-    - Tableu Dashboard
