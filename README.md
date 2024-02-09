@@ -4,11 +4,11 @@ I am Sukhpreet Singh. My education background is in Commerce and I am currently 
 
 Some of these projects are - 
 
-- Exploration of Covid-19 Data, July 2023
+- Exploration of Covid-19 Data
     - Data Cleaning of Covid-19 Data for different countries using SQL
     - Data Analysis from multiple perspectives e.g. country, Number of
     Deaths, Vaccinations
     - Tableu Dashboard for visualisation
-- US Crime Analysis, August 2023
+- US Crime Analysis
     - Data Cleaning and modification using SQL
     - Tableu Dashboard
